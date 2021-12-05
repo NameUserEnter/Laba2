@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<StudentsSuccess>
+	<StudentSuccess
+	  Name = "Shafarenko Edward Anatoliyovich"
+	  Faculty = "Geography faculty"
+	  Department = "Department of Hydrology and Hydroecology"
+	  AcademicDisciplines = "geography"
+	  StudentPerformance = "5">
+	</StudentSuccess>
+	<StudentSuccess
+	  Name = "Kirichenko Anastasia Sergiyivna"
+	  Faculty = "Geography faculty"
+	  Department = "Department of Hydrology and Hydroecology"
+	  AcademicDisciplines = "geography"
+	  StudentPerformance = "5">
+	</StudentSuccess>
+	<StudentSuccess
+	  Name = "Tkachenko Viktoria Oleksandrivna"
+	  Faculty = "Geography faculty"
+	  Department = "Department of Regional Studies and Tourism"
+	  AcademicDisciplines = "geography"
+	  StudentPerformance = "3">
+	</StudentSuccess>
+	<StudentSuccess
+	 Name = "Gritsyuk Kateryna Pavlivna"
+	 Faculty = "Faculty of Economics"
+	 Department = "Department of Enterprise Economics"
+	 AcademicDisciplines = "economics"
+	 StudentPerformance = "4">
+	</StudentSuccess>
+	<StudentSuccess
+	 Name = "Gorina Elina Edwardivna"
+	 Faculty = "Faculty of Economics"
+	 Department = "Department of Enterprise Economics"
+	 AcademicDisciplines = "economics"
+	 StudentPerformance = "4">
+	</StudentSuccess>
+	<StudentSuccess
+    Name = "Ponomarenko Inna Georgiyivna"
+    Faculty = "Faculty of Computer Science and Cybernetics"
+    Department = "Department of Applied Statistics"
+    AcademicDisciplines = "programming"
+    StudentPerformance = "3">
+	</StudentSuccess>
+	<StudentSuccess
+	 Name = "Driga Natalia Vasilivna"
+	 Faculty = "Faculty of Computer Science and Cybernetics"
+	 Department = "Department of Applied Statistics"
+	 AcademicDisciplines = "programming"
+	 StudentPerformance = "3">
+	</StudentSuccess>
+	<StudentSuccess
+    Name = "Sukhotina Oleksandra Vitaliyivna"
+    Faculty = "Faculty of Computer Science and Cybernetics"
+    Department = "Department of Intelligent Software Systems"
+    AcademicDisciplines = "programming"
+    StudentPerformance = "4">
+	</StudentSuccess>
+	<StudentSuccess
+    Name = "Trokhanenko Yuliya Yuriyivna"
+    Faculty = "Faculty of Philosophy"
+    Department = "Department of General Psychology"
+    AcademicDisciplines = "philosophy"
+    StudentPerformance = "5">
+	</StudentSuccess>
+	<StudentSuccess
+    Name = "Melnik Sofia Vasilivna"
+    Faculty = "Faculty of Philosophy"
+    Department = "Department of General Psychology"
+    AcademicDisciplines = "philosophy"
+    StudentPerformance = "4">
+	</StudentSuccess>
+	<StudentSuccess
+    Name = "Skoda Vlada Mikolaivna"
+    Faculty = "Faculty of Chemistry"
+    Department = "Department of Analytical Chemistry"
+    AcademicDisciplines = "chemistry"
+    StudentPerformance = "5">
+	</StudentSuccess>
+	<StudentSuccess
+    Name = "Ganovskiy Vasyl Leonidovich"
+    Faculty = "Faculty of Chemistry"
+    Department = "Department of Analytical Chemistry"
+    AcademicDisciplines = "chemistry"
+    StudentPerformance = "3">
+	</StudentSuccess>
+</StudentsSuccess>

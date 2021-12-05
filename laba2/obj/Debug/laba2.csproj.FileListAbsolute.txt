@@ -1,0 +1,10 @@
+E:\laba2\laba2\bin\Debug\laba2.exe.config
+E:\laba2\laba2\bin\Debug\laba2.exe
+E:\laba2\laba2\bin\Debug\laba2.pdb
+E:\laba2\laba2\obj\Debug\laba2.Properties.Resources.resources
+E:\laba2\laba2\obj\Debug\laba2.csproj.GenerateResource.cache
+E:\laba2\laba2\obj\Debug\laba2.csproj.CoreCompileInputs.cache
+E:\laba2\laba2\obj\Debug\laba2.exe
+E:\laba2\laba2\obj\Debug\laba2.pdb
+E:\laba2\laba2\obj\Debug\laba2.Students.resources
+E:\laba2\laba2\obj\Debug\laba2.csproj.AssemblyReference.cache
